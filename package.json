@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "a way to find friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizaurr/Friend-finder.git"
+  },
+  "keywords": [
+    "great",
+    "friend",
+    "finder",
+    "app"
+  ],
+  "author": "elizaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizaurr/Friend-finder/issues"
+  },
+  "homepage": "https://github.com/elizaurr/Friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}

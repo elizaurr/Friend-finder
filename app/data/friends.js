@@ -19,6 +19,26 @@ var friends = [{
   image: "https://pbs.twimg.com/profile_images/497425453766828035/DMqjRLJ2.jpeg",
   scores: [4, 4, 4, 5, 5, 5, 2, 5, 5, 5]
 
+},
+{
+  name: "Tim",
+  image: "http://www.medicalnewstoday.com/content/images/authors/tim-newman.jpg",
+  scores: [1,2,3,4,5,5,4,3,2,1]
+},
+{
+  name: "Randy",
+  image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkd8jL5-o7U7S_0KtbYFzzx92F453GzyLwxG3riZnzalGfWxBXfA",
+  scores: [2,4,2,5,2,1,4,4,3,3]
+},
+{
+  name: "Daysi",
+  image: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAadAAAAJDlkZmQ4OTI0LWI4ZDctNDE2Ny05MGJiLTRjNGZmNTdiMzZhMQ.jpg",
+  scores: [1,2,3,4,3,1,2,4,3,4]
+},
+{
+  name: "Tonya",
+  image: "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2011/11/04/tonya-cooley-confused-and-frightened-after-alleged-sexual-assault-on-mtv-show/_jcr_content/par/featured-media/media-0.img.jpg/876/493/1421914736630.jpg?ve=1&tl=1",
+  scores: [1,3,4,5,3,1,4,3,2,2]
 }
 ];
 
